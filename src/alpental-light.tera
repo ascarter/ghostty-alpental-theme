@@ -1,9 +1,9 @@
 # {{ meta.name }} Light
 # {{ meta.version }}
-background = "{{ light.secondary }}"
+background = "{{ light.alternate }}"
 foreground = "{{ light.text_primary }}"
 cursor-color = "{{ light.text_primary }}"
-selection-background = "{{ accents.info_secondary }}"
+selection-background = "{{ accents.info }}"
 selection-foreground = "{{ light.text_primary }}"
 
 palette = 0={{ ansi.light.normal.black }}

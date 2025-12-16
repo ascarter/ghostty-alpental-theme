@@ -1,9 +1,9 @@
 # {{ meta.name }} Dark
 # {{ meta.version }}
-background = "{{ dark.secondary }}"
+background = "{{ dark.alternate }}"
 foreground = "{{ dark.text_primary }}"
 cursor-color = "{{ dark.text_primary }}"
-selection-background = "{{ accents.info_secondary }}"
+selection-background = "{{ accents.info }}"
 selection-foreground = "{{ dark.text_primary }}"
 
 palette = 0={{ ansi.dark.normal.black }}
