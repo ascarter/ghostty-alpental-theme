@@ -2,9 +2,9 @@
 
 Alpental dark and light themes for Ghostty.
 
-![Alpental light](screenshots/ghostty-alpental-light.png)
+![Alpental light](screenshots/light.png)
 
-![Alpental dark](screenshots/ghostty-alpental-dark.png)
+![Alpental dark](screenshots/dark.png)
 
 ## Usage
 
