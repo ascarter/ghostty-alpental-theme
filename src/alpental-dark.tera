@@ -1,0 +1,24 @@
+# {{ meta.name }} Dark
+# {{ meta.version }}
+background = "{{ dark.secondary }}"
+foreground = "{{ dark.text_primary }}"
+cursor-color = "{{ dark.text_primary }}"
+selection-background = "{{ accents.info_secondary }}"
+selection-foreground = "{{ dark.text_primary }}"
+
+palette = 0={{ ansi.dark.normal.black }}
+palette = 1={{ ansi.dark.normal.red }}
+palette = 2={{ ansi.dark.normal.green }}
+palette = 3={{ ansi.dark.normal.yellow }}
+palette = 4={{ ansi.dark.normal.blue }}
+palette = 5={{ ansi.dark.normal.magenta }}
+palette = 6={{ ansi.dark.normal.cyan }}
+palette = 7={{ ansi.dark.normal.white }}
+palette = 8={{ ansi.dark.bright.black }}
+palette = 9={{ ansi.dark.bright.red }}
+palette = 10={{ ansi.dark.bright.green }}
+palette = 11={{ ansi.dark.bright.yellow }}
+palette = 12={{ ansi.dark.bright.blue }}
+palette = 13={{ ansi.dark.bright.magenta }}
+palette = 14={{ ansi.dark.bright.cyan }}
+palette = 15={{ ansi.dark.bright.white }}
